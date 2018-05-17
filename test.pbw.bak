@@ -1,0 +1,12 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "fr.pbt";
+@end;
+DefaultTarget "fr.pbt";
+DefaultRemoteTarget "fr.pbt";
+ghhh
+<<<<<<< HEAD
+ddd
+=======
+123
+>>>>>>> master
